@@ -1,0 +1,28 @@
+PClinics
+Uma clínica veterinária deseja cadastrar os pets que são atendidos. 
+A clínica contém um endereço;
+Os pets deverão ter nome, data de nascimento, 
+tipo de pet;
+Os pets deverão ter raça;
+Os pets deverão ter donos;
+A clínica deseja cadastrar seus 
+veterinários e todo atendimento de 
+pet será feito por um vet;
+---------------------------------------------------
+
+
+Exercício: Locadora
+Uma empresa possui vários veículos
+Um veículo possui marca(gm, ford, fiat), modelo(onix, fiesta, argo) e placa
+Um Cliente (cpf, nome) aluga um 
+ou mais veículos
+
+-----------------------------------------------------
+
+E-Commerce - SenaiShop
+Uma Loja possui várias categorias
+Uma categoria possui subcategorias
+Um produto possui uma subcategoria
+Um cliente efetua um pedido
+Um pedido pode ter 1 ou vários produtos
+http://dontpad.com/senai-2s2019-t2/bd
