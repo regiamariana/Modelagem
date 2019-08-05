@@ -1,0 +1,4 @@
+CREATE DATABASE T_Moda;
+
+USE T_Moda;
+
